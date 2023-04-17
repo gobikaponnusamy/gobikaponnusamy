@@ -1,6 +1,8 @@
 # 💫 About Me:
 💫 I'm a passionate and motivated software developer interested in full-stack development.<br>💥 Skilled in JavaScript, ReactJs, C, PHP, HTML, CSS, and Java.<br>⚓ I'm seeking opportunities to apply skills and knowledge to innovative projects.<br>🌈 Eager to explore new tools and techniques.<br><br><br><br>
 
+<img align="center" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gobika-ponnusamy-98a3b021a/) 

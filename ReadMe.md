@@ -6,6 +6,10 @@
 
 ---
 
+<img align="center" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+
+---
+
 ## 💼 What I Do
 - Build scalable **backend systems and REST APIs** using Java & Spring Boot  
 - Design and develop **microservices for enterprise platforms**  
@@ -46,14 +50,6 @@ Agentic Workflows, Amazon Bedrock, Claude, GitHub Copilot, Vector Embeddings
 - Reduced manual API validation effort by **85%+**  
 
 🔗 [Live Demo](https://driftguard-2.onrender.com/)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gobikaponnusamy&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=gobikaponnusamy&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gobikaponnusamy&layout=compact&theme=tokyonight)
 
 ---
 

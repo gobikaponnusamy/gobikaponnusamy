@@ -1,23 +1,68 @@
-# 💫 About Me:
-💫 I'm a passionate and motivated software developer interested in full-stack development.<br>💥 Skilled in JavaScript, ReactJs, C, PHP, HTML, CSS, and Java.<br>⚓ I'm seeking opportunities to apply skills and knowledge to innovative projects.<br>🌈 Eager to explore new tools and techniques.<br><br><br><br>
+# 👋 Hi, I'm Gobika Ponnusamy
 
-<img align="center" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gobika-ponnusamy-98a3b021a/) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gobikaponnusamy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gobikaponnusamy&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gobikaponnusamy&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+💻 Software Engineer I with 2 years of experience building scalable backend systems, microservices, and full-stack applications.  
+🚀 Passionate about system design, distributed systems, and AI-driven engineering workflows.  
+🔧 Currently working on backend platforms, API systems, and automation using AI agents.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=gobikaponnusamy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💼 What I Do
+- Build scalable **backend systems and REST APIs** using Java & Spring Boot  
+- Design and develop **microservices for enterprise platforms**  
+- Optimize performance and reliability in **production systems**  
+- Work on **AI-powered agents and agentic workflows** for automation  
+- Improve system security with **OAuth, SAML, SCIM, LDAP integrations**  
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend & APIs:**  
+Java, Spring Boot, REST APIs, Microservices, Distributed Systems  
+
+**Frontend:**  
+React, Node.js  
+
+**Databases:**  
+PostgreSQL, Elasticsearch, Redis  
+
+**Cloud & DevOps:**  
+Azure, Docker, Kubernetes, CI/CD  
+
+**Authentication:**  
+OAuth, SAML, SCIM, LDAP, Entra ID  
+
+**AI & Automation:**  
+Agentic Workflows, Amazon Bedrock, Claude, GitHub Copilot, Vector Embeddings  
+
+---
+
+## 🚀 Featured Project
+
+### 🔹 DriftGuard – API Regression Detection Platform
+- Detects API regressions by comparing real production traffic with staging responses  
+- Built scalable replay system with async processing, JSON diffing, and WebSocket tracking  
+- Implemented deploy-gate system to block unsafe releases  
+- Reduced manual API validation effort by **85%+**  
+
+🔗 [Live Demo](https://driftguard-2.onrender.com/)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gobikaponnusamy&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=gobikaponnusamy&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gobikaponnusamy&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/gobika-ponnusamy/)
+- 💻 [Portfolio](https://gobikaponnusamy.github.io/)
+- 📧 gobikaponnusamy2003@gmail.com
+
+---
+
+⭐ Always open to backend, full-stack, and AI-driven engineering opportunities.
